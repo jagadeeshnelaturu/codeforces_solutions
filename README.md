@@ -1,2 +1,3 @@
 # codeforces_solutions
-Last updated: 317A(Submitted 1709 hrs, 23/08/2015)
+160 solutions
+Last updated: 294A(Submitted 1058 hrs, 23/07/2015)
